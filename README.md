@@ -19,3 +19,7 @@ It's an imaging sharing app so user can share images with one another and engage
 ## Deployment Link
 
 https://yovaniaguilera.github.io/se_project_spots/
+
+## Video Recording
+
+https://drive.google.com/file/d/1lIKuhv2g9kNLKTN23y0WnWmrH-W0UJDV/view?usp=sharing
