@@ -1,5 +1,6 @@
 .modal {
   visibility: hidden;
+  transition: 0s linear 0.5s, opacity 0.5s linear;
   background-color: rgba(0, 0, 0, 0.5);
   position: fixed;
   top: 0;
@@ -14,7 +15,11 @@
 
 .modal_is-opened {
   visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+  transition-delay: 0.15s;
 }
+
 .modal__container {
   background-color: #fff;
   max-width: 730px;
