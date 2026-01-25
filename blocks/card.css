@@ -30,11 +30,11 @@
 }
 .card__like-button {
   background-color: #fcf5e5;
-  background: center / contain no-repeat;
   border: none;
   opacity: 40%;
   width: 23px;
   height: 20px;
+  cursor: pointer;
 }
 .card__like-button:hover {
   opacity: 100%;
