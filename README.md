@@ -9,6 +9,7 @@ It's an imaging sharing app so user can share images with one another and engage
 - HTMl
 - CSS
 - Responsive Web Design.
+- JavaScript
 
 ## Pictures of feature uses
 
